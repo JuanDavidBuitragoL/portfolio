@@ -1,29 +1,29 @@
 {
-  "name": "John Doe",
-  "photoUrl": "favicon.svg",
-  "intro": "A brief, compelling introduction about who you are and what you do. Mention your core philosophy, your passion for building digital products, and your drive for creating efficient, high-impact solutions.",
-  "introHtml": "A brief, compelling introduction about who you are and what you do. Mention your core <span class='text-white font-bold'>philosophy</span>, your passion for building digital products, and your drive for creating <span class='text-white font-bold'>efficient</span>, <span class='text-white font-bold'>high-impact</span> solutions.",
-  "webpageTitle": "John Doe",
-  "resumeUrl": "https://example-files.online-convert.com/document/pdf/example.pdf",
+  "name": "Juan Buitrago",
+  "photoUrl": "/logo.png", 
+  "webpageTitle": "Juan Buitrago | Systems Engineer & Full Stack Developer",
+  "resumeUrl": "/CV_Juan_Buitrago.pdf",
+  "intro": "Systems Engineer specialized in scalable architectures and performance optimization. Focused on Clean Code and Agile methodologies, I have achieved a 98% improvement in the efficiency of mission-critical systems. My passion lies in transforming complex problems into high-impact digital solutions.",
+  "introHtml": "Systems Engineer specialized in <span class='text-white font-bold'>scalable architectures</span> and performance optimization. Focused on <span class='text-white font-bold'>Clean Code</span> and Agile methodologies, I have achieved a <span class='text-white font-bold'>98% improvement</span> in the efficiency of mission-critical systems. My passion lies in transforming complex problems into <span class='text-white font-bold'>high-impact</span> digital solutions.",
   "socials": [
     {
       "name": "GitHub",
-      "url": "https://github.com/[YOUR_USER_NAME]",
+      "url": "https://github.com/JuanDavidBuitragoL",
       "icon": "mdi:github"
     },
     {
       "name": "LinkedIn",
-      "url": "https://linkedin.com/in/[YOUR_USER_NAME]",
+      "url": "https://linkedin.com/in/juan-david-buitrago-lozano-849b19205",
       "icon": "mdi:linkedin"
     },
     {
       "name": "Email",
-      "url": "mailto:your-mail@example.com",
+      "url": "mailto:juandbuitrago3@gmail.com",
       "icon": "mdi:email"
     },
     {
       "name": "Whatsapp",
-      "url": "https://wa.me/[YOUR_WHATSAPP_NUMBER]",
+      "url": "https://wa.me/3015814382",
       "icon": "mdi:whatsapp"
     }
   ]

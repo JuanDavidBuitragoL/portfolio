@@ -1,35 +1,40 @@
 {
   "categories": [
     {
-      "title": "Mobile Development",
+      "title": "Frontend Development",
       "skills": [
-        { "name": "Flutter", "level": 3, "icon": "skill-icons:flutter-dark" },
-        { "name": "Dart", "level": 3, "icon": "skill-icons:dart-dark" },
-        { "name": "Kotlin", "level": 1, "icon": "skill-icons:kotlin-dark" }
+        { "name": "React.js", "level": 3, "icon": "skill-icons:react-dark" },
+        { "name": "TypeScript", "level": 3, "icon": "skill-icons:typescript" },
+        { "name": "JavaScript (ES6+)", "level": 3, "icon": "skill-icons:javascript" },
+        { "name": "Tailwind CSS", "level": 3, "icon": "skill-icons:tailwindcss-dark" },
+        { "name": "Astro", "level": 2, "icon": "skill-icons:astro" }
       ]
     },
     {
-      "title": "Frontend",
+      "title": "Backend & Architecture",
       "skills": [
-        { "name": "Astro", "level": 2, "icon": "skill-icons:astro" },
-        { "name": "HTML", "level": 2, "icon": "skill-icons:html" },
-        { "name": "CSS", "level": 2, "icon": "skill-icons:css" },
-        { "name": "Tailwind CSS", "level": 1, "icon": "skill-icons:tailwindcss-dark" }
+        { "name": "Node.js", "level": 3, "icon": "skill-icons:nodejs-dark" },
+        { "name": "Java", "level": 2, "icon": "skill-icons:java-dark" },
+        { "name": "RESTful APIs", "level": 3, "icon": "carbon:api" },
+        { "name": "PostgreSQL", "level": 3, "icon": "skill-icons:postgresql-dark" },
+        { "name": "MongoDB", "level": 2, "icon": "skill-icons:mongodb" }
       ]
     },
     {
-      "title": "Backend",
+      "title": "Cloud & DevOps",
       "skills": [
-        { "name": "FastAPI", "level": 2, "icon": "skill-icons:fastapi" },
-        { "name": "Python", "level": 2, "icon": "skill-icons:python-dark" },
-        { "name": "Firebase", "level": 3, "icon": "vscode-icons:file-type-firebase" }
+        { "name": "AWS", "level": 2, "icon": "skill-icons:aws-dark" },
+        { "name": "Docker", "level": 2, "icon": "skill-icons:docker" },
+        { "name": "Git", "level": 3, "icon": "skill-icons:git" },
+        { "name": "CI/CD", "level": 2, "icon": "carbon:delivery-parcel" }
       ]
     },
     {
-      "title": "Database",
+      "title": "Methodologies & Tools",
       "skills": [
-        { "name": "SQLite", "level": 3, "icon": "skill-icons:sqlite" },
-        { "name": "PostgreSQL", "level": 2, "icon": "skill-icons:postgresql-dark" }
+        { "name": "Scrum", "level": 3, "icon": "simple-icons:scrumalliance" },
+        { "name": "UML", "level": 3, "icon": "carbon:diagram" },
+        { "name": "Clean Code", "level": 3, "icon": "carbon:clean" }
       ]
     }
   ]
