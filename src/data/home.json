@@ -2,6 +2,7 @@
   "name": "Juan Buitrago",
   "photoUrl": "/logo.png", 
   "webpageTitle": "Juan Buitrago | Systems Engineer & Full Stack Developer",
+  "description": "Systems Engineer & AWS Certified Cloud Practitioner specialized in scalable architectures and Node.js. Proven track record with 98% efficiency gains in critical systems.",
   "resumeUrl": "/CV_Juan_Buitrago.pdf",
   "intro": "Systems Engineer specialized in scalable architectures and performance optimization. Focused on Clean Code and Agile methodologies, I have achieved a 98% improvement in the efficiency of mission-critical systems. My passion lies in transforming complex problems into high-impact digital solutions.",
   "introHtml": "Systems Engineer specialized in <span class='text-white font-bold'>scalable architectures</span> and performance optimization. Focused on <span class='text-white font-bold'>Clean Code</span> and Agile methodologies, I have achieved a <span class='text-white font-bold'>98% improvement</span> in the efficiency of mission-critical systems. My passion lies in transforming complex problems into <span class='text-white font-bold'>high-impact</span> digital solutions.",
