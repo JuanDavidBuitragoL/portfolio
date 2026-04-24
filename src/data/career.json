@@ -4,7 +4,7 @@
     "role": "Full-Stack Web Developer",
     "period": "January 2025 – February 2025",
     "type": "Contract",
-    "description": "Responsible for high-fidelity interface development and maintenance of the institutional platform using React.js and TypeScript, prioritizing user experience and frontend component efficiency[cite: 65, 66].",
+    "description": "Responsible for high-fidelity interface development and maintenance of the institutional platform using React.js and TypeScript, prioritizing user experience and frontend component efficiency.",
     "skills": [
       "React.js",
       "Node.js",
@@ -17,7 +17,7 @@
     "role": "Software Engineer",
     "period": "June 2025 – October 2025",
     "type": "Full-time",
-    "description": "Led the architecture of RESTful APIs and optimization of mission-critical financial workflows, achieving a 98% reduction in processing times through automation and systems re-engineering[cite: 56, 61, 62].",
+    "description": "Led the architecture of RESTful APIs and optimization of mission-critical financial workflows, achieving a 98% reduction in processing times through automation and systems re-engineering.",
     "skills": [
       "RESTful APIs",
       "Node.js",
@@ -30,9 +30,9 @@
   {
     "company": "Universidad Santo Tomás",
     "role": "Systems Engineer",
-    "period": "Expected Graduation: April 2026",
+    "period": "Graduated: April 2026",
     "type": "Education",
-    "description": "Comprehensive training in software engineering with an emphasis on the development lifecycle, design patterns, and application scalability, complemented by international certifications in Cloud and Agile methodologies[cite: 90, 91].",
+    "description": "Comprehensive training in software engineering with an emphasis on the development lifecycle, design patterns, and application scalability, complemented by international certifications in Cloud and Agile methodologies.",
     "skills": [
       "Software Architecture",
       "Agile (Scrum/Kanban)",
