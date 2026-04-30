@@ -13,5 +13,11 @@ export default defineConfig({
     plugins: [tailwindcss()]
   },
 
-  integrations: [icon()]
+  integrations: [icon({
+      // Esto permite que astro-icon busque en las colecciones de Iconify
+      include: {
+        mdi: ['*'],           
+        'circle-flags': ['*'] 
+      }
+    })]
 });

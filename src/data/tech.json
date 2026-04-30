@@ -1,28 +1,38 @@
 {
   "categories": [
     {
-      "title": "Frontend Development",
+      "title": "Frontend & Mobile Development",
       "skills": [
         { "name": "React.js", "level": 3, "icon": "skill-icons:react-dark" },
         { "name": "TypeScript", "level": 3, "icon": "skill-icons:typescript" },
+        { "name": "Flutter", "level": 3, "icon": "logos:flutter" },
         { "name": "JavaScript (ES6+)", "level": 3, "icon": "skill-icons:javascript" },
         { "name": "Tailwind CSS", "level": 3, "icon": "skill-icons:tailwindcss-dark" },
-        { "name": "Astro", "level": 2, "icon": "skill-icons:astro" }
+        { "name": "Astro", "level": 2, "icon": "skill-icons:astro" },
+        { "name": "Zod", "level": 2, "icon": "skill-icons:nodejs-dark" },
+        { "name": "Figma", "level": 3, "icon": "logos:figma" }
       ]
     },
     {
       "title": "Backend & Architecture",
       "skills": [
         { "name": "Node.js", "level": 3, "icon": "skill-icons:nodejs-dark" },
-        { "name": "Java", "level": 2, "icon": "skill-icons:java-dark" },
+        { "name": "Java", "level": 3, "icon": "skill-icons:java-dark" },
+        { "name": ".NET", "level": 1, "icon": "skill-icons:dotnet" },
         { "name": "RESTful APIs", "level": 3, "icon": "carbon:api" },
         { "name": "PostgreSQL", "level": 3, "icon": "skill-icons:postgresql-dark" },
-        { "name": "MongoDB", "level": 2, "icon": "skill-icons:mongodb" }
+        { "name": "MongoDB", "level": 2, "icon": "skill-icons:mongodb" },
+        { "name": "Prisma", "level": 3, "icon": "skill-icons:prisma" },
+        { "name": "C++", "level": 2, "icon": "skill-icons:cpp" },
+        { "name": "Python", "level": 1, "icon": "skill-icons:python-dark" }
       ]
     },
     {
       "title": "Cloud & DevOps",
       "skills": [
+        { "name": "Microservices", "level": 3, "icon": "carbon:microservices-1" },
+        { "name": "OOP", "level": 3, "icon": "carbon:object-storage" },
+        { "name": "Performance Opt.", "level": 3, "icon": "carbon:meter-alt" },
         { "name": "AWS", "level": 2, "icon": "skill-icons:aws-dark" },
         { "name": "Docker", "level": 2, "icon": "skill-icons:docker" },
         { "name": "Git", "level": 3, "icon": "skill-icons:git" },
@@ -32,6 +42,7 @@
     {
       "title": "Methodologies & Tools",
       "skills": [
+        { "name": "Postman", "level": 3, "icon": "skill-icons:postman" },
         { "name": "Scrum", "level": 3, "icon": "simple-icons:scrumalliance" },
         { "name": "UML", "level": 3, "icon": "carbon:diagram" },
         { "name": "Clean Code", "level": 3, "icon": "carbon:clean" }
