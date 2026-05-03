@@ -1,6 +1,6 @@
 {
   "name": "Juan Buitrago",
-  "photoUrl": "/logo.png", 
+  "photoUrl": "/logo.webp", 
   "webpageTitle": "Juan Buitrago | Systems Engineer & Full Stack Developer",
   "description": "Systems Engineer & AWS Certified Cloud Practitioner specialized in scalable architectures and Node.js. Proven track record with 98% efficiency gains in critical systems.",
   "resumeEnUrl": "/CV_Juan_Buitrago.pdf",
@@ -20,7 +20,7 @@
     },
     {
       "name": "Email",
-      "url": "mailto:juandbuitrago3@gmail.com",
+      "url": "mailto:contact@juandb.dev",
       "icon": "mdi:email"
     },
     {
