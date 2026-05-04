@@ -1,20 +1,42 @@
 [
   {
-    "title": "Enterprise Inventory Management System",
-    "description": "Enterprise-grade solution featuring complex relational logic designed under UML standards. Ensures absolute data integrity for critical stock operations through optimized PostgreSQL schemas.",
-    "images": ["optica-01.webp", "optica-02.webp"],
-    "tech": ["PostgreSQL", "React", "Node.js", "UML"],
-    "platforms": ["web"],
-    "link": "https://github.com/JuanDavidBuitragoL/OpticaVisionIntegral",
-    "category": "Enterprise Solution"
+    "title": "Secure Payment Gateway & Subscription Framework",
+    "description": "Engineered a robust validation framework using Zod to secure checkout modules, preventing production vulnerabilities through schema-driven development. Integrated Prisma ORM for resilient subscription state management and automated OpenAPI documentation to ensure 100% API contract reliability.",
+    "images": [
+      "pagos-01.webp",
+      "pagos-02.webp"
+    ],
+    "tech": [
+      "Node.js",
+      "TypeScript",
+      "Prisma ORM",
+      "Zod",
+      "Vitest",
+      "Swagger/OpenAPI"
+    ],
+    "platforms": [
+      "Web / Backend"
+    ],
+    "link": "https://github.com/JuanDavidBuitragoL/paymentSystem",
+    "category": "Fintech / Cybersecurity"
   },
   {
-    "title": "Payment Gateway & Subscription System",
-    "description": "Validation framework engineered to secure Checkout and Registration modules. Implementation of static code analysis to ensure 'A' grade maintainability and significant technical debt reduction.",
-    "images": ["pagos-01.webp", "pagos-02.webp"],
-    "tech": ["Node.js", "TypeScript", "Docker", "Clean Code"],
-    "platforms": ["web"],
-    "link": "https://github.com/JuanDavidBuitragoL/Payment-Gateway",
-    "category": "Fintech / Backend"
+    "title": "Enterprise Inventory Management System",
+    "description": "Enterprise-grade solution featuring complex relational logic designed under UML standards. Ensures absolute data integrity for critical stock operations through optimized PostgreSQL schemas.",
+    "images": [
+      "optica-01.webp",
+      "optica-02.webp"
+    ],
+    "tech": [
+      "PostgreSQL",
+      "React",
+      "Node.js",
+      "UML"
+    ],
+    "platforms": [
+      "web"
+    ],
+    "link": "https://github.com/JuanDavidBuitragoL/OpticaVisionIntegral",
+    "category": "Enterprise Solution"
   }
 ]

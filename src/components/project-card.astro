@@ -3,6 +3,13 @@ import { Icon } from 'astro-icon/components';
 const { project } = Astro.props;
 
 const isSlider = project.images.length > 1;
+
+const PLATFORM_ICON_MAP: Record<string, string> = {
+  "Web / Backend": "mdi:server-network",
+  "Mobile": "mdi:cellphone",
+  "Desktop": "mdi:monitor",
+  "Fullstack": "mdi:layers-outline"
+};
 ---
 
 <div class="project-card group relative bg-white/5 border border-white/10 rounded-2xl overflow-hidden hover:border-accent/40 transition-all duration-500">
@@ -22,8 +29,12 @@ const isSlider = project.images.length > 1;
     
     <div class="absolute top-3 right-3 flex gap-2 z-20">
       {project.platforms.map((p) => (
-        <div class="p-1.5 bg-black/60 backdrop-blur-md rounded-lg border border-white/10 text-white/80">
-          <Icon name={`mdi:${p}`} class="w-4 h-4" />
+        <div 
+          class="p-1.5 bg-black/60 backdrop-blur-md rounded-lg border border-white/10 text-white/80"
+          title={p} 
+        >
+          {/* 2. Se usa el mapeo o un icono de ayuda por defecto si no existe la llave */}
+          <Icon name={PLATFORM_ICON_MAP[p] || "mdi:help-circle-outline"} class="w-4 h-4" />
         </div>
       ))}
     </div>
